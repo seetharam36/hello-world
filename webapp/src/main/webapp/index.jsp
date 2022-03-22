@@ -5,7 +5,7 @@
     <hr>
 
     <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter your Email champion:" name="email" id="email" required>
 	<br>
 
     <label for="psw"><b>Password</b></label>
